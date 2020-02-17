@@ -38,4 +38,4 @@ class CommandLineInterface
     end
   end
 
-end
+
